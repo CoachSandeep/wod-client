@@ -1,0 +1,1 @@
+// Mock content for Register.js in dungenz-client

@@ -1,0 +1,1 @@
+// Mock content for WorkoutPage.js in dungenz-client
